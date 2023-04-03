@@ -32,7 +32,7 @@ body {
 #container
 {
      width: 70%;
-     padding: 1em;
+     padding: 0;
      text-align: left;
      border: 1px solid #ddd;
      margin: 0 auto;
@@ -44,6 +44,7 @@ body {
 #post
 {
  padding: 1em;
+ background:white ;
 }
 
 #footer
